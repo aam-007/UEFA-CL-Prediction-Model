@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a machine learning model to predict UEFA Champions League match outcomes using historical data from 2004-2021. The model uses a Categorical Naive Bayes classifier to predict match winners and simulate tournament outcomes.
+This project implements a machine learning model to predict UEFA Champions League match outcomes using historical data from 2004-2021. The model uses a Categorical Naive Bayes classifier to predict match winners and simulate elimination tournament outcomes.
 
 ---
 
